@@ -12,6 +12,7 @@ import BrandBG from "./BrandBG.png";
 import BrandBGfilter from "./BrandBGfilter.png";
 import HeroIMG from "./HeroIMG.png";
 
+
 export {
   logo,
   HeroImg,
