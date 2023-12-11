@@ -1,4 +1,4 @@
-import logo from "./carcircle_logo.png";
+import logo from "./Carcircle_logo.png";
 import HeroImg from "./hero-img.png";
 import DemoCar from "./DemoCar.png";
 import ToyotaCrysta from "./Toyota Innova Crysta.png";
@@ -11,6 +11,7 @@ import Carbrand from "./Carbrand.png";
 import BrandBG from "./BrandBG.png";
 import BrandBGfilter from "./BrandBGfilter.png";
 import HeroIMG from "./HeroIMG.png";
+
 
 export {
   logo,
