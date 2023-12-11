@@ -1,4 +1,5 @@
 import React from "react";
+import { HeroIMG } from "../assets/img";
 
 import Searchbar from "../Components/Searchbar";
 
@@ -7,7 +8,8 @@ const Hero = () => {
     <>
       <div>
         <div
-          className={`max-w-full w-full h-[400px] bg-[url("./src/assets/img/HeroIMG.png")]  bg-no-repeat bg-center md:h-[400px] md:bg-center object-fill object-scale-down `}
+          className={`max-w-full w-full h-[400px]  bg-no-repeat bg-center md:h-[400px] md:bg-center object-fill object-scale-down `}
+          style={{ backgroundImage: `url(${HeroIMG})` }}
         >
           <div>
             {" "}
